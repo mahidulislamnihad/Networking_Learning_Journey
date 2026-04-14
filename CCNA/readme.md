@@ -19,7 +19,7 @@ Inside every folder, you will find:
 
 
 ...
-## 🧠 What This Repository Represents
+## 🧠 What This Folder Represents
 
 - My **progress** in CCNA studies  
 - My **hands-on practice** with Packet Tracer  
