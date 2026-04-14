@@ -8,7 +8,7 @@ I am following the **free CCNA course by Jeremy’s IT Lab**, practicing each to
 
 ---
 
-## 📁 Repository Structure
+## 📁 Folder Structure
 
 Each folder represents a day or topic from my CCNA studies.  
 Inside every folder, you will find:
