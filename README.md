@@ -6,7 +6,7 @@ This repository documents my hands-on Network and IT learning journey.
 I am following the **free CCNA course by Jeremy’s IT Lab**, practicing each topic using Cisco Packet Tracer, and uploading my daily progress, notes, and configurations.
 
 ## Progress
-1. [CCNA](url)
+1. [CCNA](CCNA)
 
 ## 📁 Repository Structure
 
